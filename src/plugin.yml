@@ -1,0 +1,8 @@
+name: rconnect
+main: comando.rconnect
+version: 0.01
+commands:
+   basic:
+      description: This is my plugin
+      usage: /<command> [player]
+      
